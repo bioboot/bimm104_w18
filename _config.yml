@@ -1,0 +1,14 @@
+# Site settings
+title: "BIMM 104"
+email: bjgrant@umich.edu
+description: > # this means to ignore newlines until "baseurl:"
+   Winter 2018 BIMM 104 course at the University of Calforina, San Diego that 
+   introduces students to the fundamental principles and practices 
+   of genomics and genome informatics.  
+baseurl: "/bimm104_w18" # the subpath of your site, e.g. /blog/
+url: "http://bioboot.github.io/bimm104_w18" 
+twitter_username: bioboot
+github_username:  bioboot
+
+# Build settings
+markdown: kramdown

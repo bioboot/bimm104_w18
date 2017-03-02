@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BIMM 104</title>
+    <description>Winter 2018 BIMM 104 course at the University of Calforina, San Diego that  introduces students to the fundamental principles and practices  of genomics and genome informatics.  
+</description>
+    <link>http://localhost:4000/bimm104_w18/</link>
+    <atom:link href="http://localhost:4000/bimm104_w18/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 01 Mar 2017 23:56:54 -0800</pubDate>
+    <lastBuildDate>Wed, 01 Mar 2017 23:56:54 -0800</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+  </channel>
+</rss>
