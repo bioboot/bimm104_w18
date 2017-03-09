@@ -25,11 +25,10 @@ At the end of this course students will:
 In short, students will develop a solid foundational knowledge of genome informatics and be able to evaluate new genomic information using online bioinformatic tools and resources. 
 
 <br>
-**Introductory Screencast**:  (To be updated!)  
+**Course Overview**:   
 
 
-[![ScreenCast1.1](http://i.imgur.com/B9ev2Hq.png)](https://vimeo.com/151178510 "Welcome ScreenCast - Click to Watch!")
-
+<script async class="speakerdeck-embed" data-id="23c5c4806d724d5b84644794e7d68731" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 <br>
 **Schedule**:  
@@ -38,6 +37,13 @@ A detailed lecture schedule with topic outlines is provided [**here**]({{ site.b
 - Lectures are on **Tuesday** and **Thursday** at **10:30 - 11:50 am** in [Center Hall, University Center](Map Bldg #984).  
 
 - Discussion groups meet once a week for 50 mins in [Galbraith Hall, Revelle](Map Bldg #141). 
+
+<br>
+**Introductory Screencast**:  (To be updated!)  
+
+
+[![ScreenCast1.1](http://i.imgur.com/B9ev2Hq.png)](https://vimeo.com/151178510 "Welcome ScreenCast - Click to Watch!")
+
 
 <br>
 **Textbook**:  There is no textbook for the course. Lecture notes, homework assignments, grading criteria, pre-class screen casts and required reading material will be available from this website: [https://bioboot.github.io/bimm104_w18/](https://bioboot.github.io/bimm104_w18/) 
